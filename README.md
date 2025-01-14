@@ -22,22 +22,22 @@ CamHacker is a phishing tool. It will generate a link. If anyone opens the link 
 
 ### [+] Installation
 
- - `git clone https://github.com/s4m98/CamHacker`
- - `cd CamHacker`
+ - `git clone https://github.com/s4m98/Cam-Hacker`
+ - `cd Cam-Hacker`
 
 For termux, use additional command `termux-setup-storage`
  - `bash ch.sh`
 
 ##### Or Run Directly
 ```
-wget https://raw.githubusercontent.com/s4m98/CamHacker/main/ch.sh && bash ch.sh
+wget https://raw.githubusercontent.com/s4m98/Cam-Hacker/main/ch.sh && bash ch.sh
 ```
 
 ### Docker
 
- - `sudo docker pull s4m98/camhacker`
- - `sudo docker run --rm -it --name camhacker s4m98/camhacker`
- - `sudo docker cp camhacker:/CamHacker imgfiles` [Run this on another terminal to copy received image from docker to imgfiles folder keeping container open]
+ - `sudo docker pull s4m98/Cam-Hacker`
+ - `sudo docker run --rm -it --name Cam-Hacker s4m98/Cam-Hacker`
+ - `sudo docker cp Cam-Hacker:/Cam-Hacker imgfiles` [Run this on another terminal to copy received image from docker to imgfiles folder keeping container open]
 
 ##### Usage
 ```
@@ -67,7 +67,7 @@ Options:
 
  
 ### [+] Preview 
-![Hack anyone's camera and get images](https://github.com/s4m98/CamHacker/raw/main/files/ch.gif)
+![Hack anyone's camera and get images](https://github.com/s4m98/Cam-Hacker/raw/main/files/ch.gif)
 
 ### [+] Dependencies
  - `php`
