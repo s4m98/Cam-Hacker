@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
 </p>
+### [+] NOTE: I Don't Own this Tool. All Create Goes to Original Developer :)
 
 ### [+] Description
 CamHacker is a phishing tool. It will generate a link. If anyone opens the link and permits camera access, his/her photo will be captured and sent to you!
